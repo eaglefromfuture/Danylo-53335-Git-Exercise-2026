@@ -1,0 +1,5 @@
+# Ignore all image files for the exercise
+*.png
+*.jpg
+*.jpeg
+*.gif
